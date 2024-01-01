@@ -1,7 +1,7 @@
 ![Leetcode Stats](https://leetcard.jacoblin.cool/klinikaa)
 
 ## whoami:
-**Go Developer + DevOps enthusiast**
+**Java Developer + DevOps enthusiast**
 
 ## socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nokkkov) 
