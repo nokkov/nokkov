@@ -1,5 +1,5 @@
 ## About Me
-**I'm an Intern System Engineer, stayin' in Saint-Petersburg, Russia.** 
+**I'm Devops Engineer, stayin' in Saint-Petersburg, Russia.** 
 
 ## Tech Stack
 [![Linux](https://img.shields.io/badge/Linux-003366?style=for-the-badge&logo=linux&logoColor=white)](https://www.linux.org/)
