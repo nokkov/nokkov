@@ -1,8 +1,5 @@
 ## About Me
-**I'm Devops Engineer, wanna be Mlops enginner.** 
-
-## Interested in:
-**Math - ML :: Rust - Linux Programming :: Go - Commercial Development.**
+**I'm Devops Engineer.** 
 
 ## Devops Stack
 [![Linux](https://img.shields.io/badge/Linux-003366?style=for-the-badge&logo=linux&logoColor=white)](https://www.linux.org/)
@@ -16,13 +13,7 @@
 [![Docker](https://img.shields.io/badge/Docker-1A73E8?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-00558C?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
 
-## Mlops stack
-[![Python](https://img.shields.io/badge/Python-4B8BBE?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
-
 ## Programming Languages
+[![Python](https://img.shields.io/badge/Python-4B8BBE?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
