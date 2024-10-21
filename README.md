@@ -2,7 +2,7 @@
 **I'm Devops Engineer, wanna be MlOps enginner.** 
 
 ## Interested in:
-**Math - ML; Rust - Linux Programming; Go - Commercial Development **
+**Math - ML; Rust - Linux Programming; Go - Commercial Development.**
 
 ## Devops Stack
 [![Linux](https://img.shields.io/badge/Linux-003366?style=for-the-badge&logo=linux&logoColor=white)](https://www.linux.org/)
