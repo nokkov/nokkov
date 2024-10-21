@@ -1,5 +1,5 @@
 ## About Me
-**I'm Devops Engineer, wanna be MlOps enginner.** 
+**I'm Devops Engineer, wanna be Mlops enginner.** 
 
 ## Interested in:
 **Math - ML :: Rust - Linux Programming :: Go - Commercial Development.**
